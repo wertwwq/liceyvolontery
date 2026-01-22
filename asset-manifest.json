@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/liceyvolontery/static/css/main.9ca13a42.css",
+    "main.js": "/liceyvolontery/static/js/main.c59d8aed.js",
+    "index.html": "/liceyvolontery/index.html",
+    "main.9ca13a42.css.map": "/liceyvolontery/static/css/main.9ca13a42.css.map",
+    "main.c59d8aed.js.map": "/liceyvolontery/static/js/main.c59d8aed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ca13a42.css",
+    "static/js/main.c59d8aed.js"
+  ]
+}
