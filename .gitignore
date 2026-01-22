@@ -1,5 +1,3 @@
-node_modules/
-build/
-.DS_Store
-.env
-*.log
+echo node_modules/ > .gitignore
+echo build/ >> .gitignore
+git add .gitignore

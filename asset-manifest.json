@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/liceyvolontery/static/css/main.9ca13a42.css",
-    "main.js": "/liceyvolontery/static/js/main.c59d8aed.js",
+    "main.css": "/liceyvolontery/static/css/main.86bd9f98.css",
+    "main.js": "/liceyvolontery/static/js/main.8adfa132.js",
     "index.html": "/liceyvolontery/index.html",
-    "main.9ca13a42.css.map": "/liceyvolontery/static/css/main.9ca13a42.css.map",
-    "main.c59d8aed.js.map": "/liceyvolontery/static/js/main.c59d8aed.js.map"
+    "main.86bd9f98.css.map": "/liceyvolontery/static/css/main.86bd9f98.css.map",
+    "main.8adfa132.js.map": "/liceyvolontery/static/js/main.8adfa132.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ca13a42.css",
-    "static/js/main.c59d8aed.js"
+    "static/css/main.86bd9f98.css",
+    "static/js/main.8adfa132.js"
   ]
 }
